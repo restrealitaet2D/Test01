@@ -3529,7 +3529,7 @@
         {
          "columns":11,
          "firstgid":369,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/mapUtilities.png",
+         "image":"tiles_png\/mapUtilities.png",
          "imageheight":64,
          "imagewidth":352,
          "margin":0,
@@ -3542,7 +3542,7 @@
         {
          "columns":11,
          "firstgid":391,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/boden.png",
+         "image":"tiles_png\/boden.png",
          "imageheight":480,
          "imagewidth":352,
          "margin":0,
@@ -3555,7 +3555,7 @@
         {
          "columns":8,
          "firstgid":556,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/objekte1.png",
+         "image":"tiles_png\/objekte1.png",
          "imageheight":704,
          "imagewidth":256,
          "margin":0,
@@ -3568,7 +3568,7 @@
         {
          "columns":8,
          "firstgid":732,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/objekte brick.png",
+         "image":"tiles_png\/objekte brick.png",
          "imageheight":320,
          "imagewidth":256,
          "margin":0,
@@ -3581,7 +3581,7 @@
         {
          "columns":4,
          "firstgid":812,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/oeser.png",
+         "image":"tiles_png\/oeser.png",
          "imageheight":512,
          "imagewidth":128,
          "margin":0,
@@ -3695,7 +3695,7 @@
         {
          "columns":14,
          "firstgid":876,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/tent.png",
+         "image":"tiles_png\/tent.png",
          "imageheight":384,
          "imagewidth":448,
          "margin":0,
@@ -3708,7 +3708,7 @@
         {
          "columns":8,
          "firstgid":1044,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/plants.png",
+         "image":"tiles_png\/plants.png",
          "imageheight":1440,
          "imagewidth":256,
          "margin":0,
@@ -3721,7 +3721,7 @@
         {
          "columns":26,
          "firstgid":1404,
-         "image":"..\/blank10\/blank-neu-main\/tiles_png\/nwd.png",
+         "image":"tiles_png\/nwd.png",
          "imageheight":64,
          "imagewidth":836,
          "margin":0,
